@@ -1,0 +1,19 @@
+/* Couleur de fond */
+section{
+    background-color: lightgrey;
+}
+
+/* image de fond  */
+div{
+    background-image: url(image\ de\ fond.jpg);
+    color: white;
+    background-size: cover;
+}
+
+/* gardient-linéaire en fond  */
+.linear-gardient{
+    background: linear-gradient(red , violet);
+
+}
+   
+   

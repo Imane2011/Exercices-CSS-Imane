@@ -1,0 +1,38 @@
+.image{
+    transform: rotate(45deg);
+}
+.bouton{
+    transform: scale(1.5);
+}
+.carré{
+    width: 150px;
+    height: 150px;
+    background-color: blue;
+    transform: translate(50px,20px);
+}
+.rectangle{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(255, 0, 76);
+    transform: scaleX(2) scaleY(0.5);
+}
+.screw{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(157, 255, 0);
+    transform: skew(20deg, 10deg);
+}
+.combinaison{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(222, 124, 12);
+    transform:rotate(45deg) scale(1.2) translate(30px);
+}
+.survol{
+    width: 150px;
+    height: 150px;
+    background-color: rgb(157, 255, 0);
+}
+.survol:hover{
+    transform: rotate(15deg);
+}

@@ -1,0 +1,25 @@
+/* Si l'écran est supérieur à 1024px */
+
+@media (min-width: 1024px){
+    .titre {
+        font-size: 36px
+    }
+}
+
+
+/* Si l'écran est compris entre 768px et 1024px */
+
+@media (max-width: 1024px) and (min-width: 768px){
+    .titre {
+        font-size: 28px;
+    }
+}
+
+/* Si l'écran est inférieur à 768px */
+
+@media (max-width: 768px){
+    .titre{
+        font-size: 20px;
+    }
+}
+    

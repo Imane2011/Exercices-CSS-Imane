@@ -1,0 +1,23 @@
+p{
+    color: chocolate;
+    background-color: azure;
+    font-family: 'Times New Roman';
+    font-size: small;
+    font-weight: 300;  
+}
+
+.texte{
+    color: red !important;
+    background-color: aqua;
+    font-family: 'Cambria' !important;
+    font-size: medium;
+    font-weight: lighter;
+}
+
+#texte{
+    color: blue;
+    background-color: yellow;
+    font-family: 'Franklin Gothic Medium';
+    font-size: xx-large;
+    font-weight: bold;
+} 

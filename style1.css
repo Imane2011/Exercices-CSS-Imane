@@ -1,0 +1,25 @@
+
+/* Couleur de texte pour un élément balise */
+p{
+    color: blue;
+}
+/* l'utilisation d'une classe */
+.présentation{
+    background-color: yellow;
+    font-family: Georgia, serif;
+    font-weight: bold;
+}
+
+/* l'utilisation d'un ID*/
+#article{
+    font-size: xx-large;
+    color: orange;
+}
+
+
+
+
+
+
+
+

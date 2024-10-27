@@ -1,0 +1,13 @@
+
+@keyframes p {
+    from{
+       opacity: 0;
+    }
+    to{
+        opacity: 1;
+    }
+}
+.texte {
+    opacity: 0;
+    animation: p 2s ease infinite alternate;
+}

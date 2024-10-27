@@ -1,0 +1,17 @@
+/* Changement de la famille de police div & la mise du texte en gras et italique */
+div{
+  font-family: arial;  
+  font-weight: bold;
+  font-style: italic;
+}
+
+/* Tailles de police */
+h1{
+  font-size: larger;
+}
+h2{
+  font-size: medium;
+}
+p{
+  font-size: smaller;
+}
